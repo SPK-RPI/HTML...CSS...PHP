@@ -1,0 +1,71 @@
+body h1{
+    color: rgb(46, 161, 196);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#main-wrapper{
+width: 500px;
+margin: 0 auto;
+background-color: rgb(255, 255, 255);
+padding: 5px;
+border-radius: 5%;
+}
+.img{
+width: 100px;
+border-radius: 40%;
+
+}
+.myform{
+width: 450px;
+margin: 0 auto;
+
+}
+  .inputval{
+      width: 430px;
+      margin:  0 auto;
+
+  }
+  #login_but{
+      margin-top: 10px;
+      background-color: rgb(105, 194, 3);
+      padding: 5px;
+      color: white;
+      width: 100%;
+      text-align: center;
+      font-size: 15px;
+      font-weight: bold;
+
+  }
+  #regis_but{
+    margin-bottom: 15px;
+    background-color: rgb(38, 17, 133);
+    padding: 5px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+#bck_but{
+    margin-top: 10px;
+    background-color: rgb(105, 194, 3);
+    padding: 5px;
+    color: white;
+    width: 25%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+#logout_but{
+margin-top: 10px;
+    background-color: rgb(194, 3, 3);
+    padding: 5px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
